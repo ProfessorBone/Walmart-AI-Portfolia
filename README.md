@@ -79,7 +79,7 @@ suggestions.
 
 ## 🚛 The Driver's Advantage
 
-As an OTR driver with 5+ years at Walmart, I bring:
+As an OTR driver at Walmart, I bring:
 - **Ground-level insight** into logistics operations
 - **Real-world context** for supply chain pain points
 - **Translator role** between AI capabilities and warehouse floor needs
