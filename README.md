@@ -1,54 +1,62 @@
-# Walmart AI Portfolio
+🧠 Walmart AI Portfolio
 
-> **Career Goal:** OTR Truck Driver → Walmart Global Tech AI/ML Engineer  
-> **Timeline:** January 2025 - June 2026  
-> **Focus:** Agentic AI, RAG Systems, Supply Chain Intelligence
+Career Goal: OTR Truck Driver → Walmart Global Tech AI/ML Engineer
+Timeline: January 2025 – June 2026
+Focus: Agentic AI, RAG Systems, Supply Chain Intelligence
 
----
+⸻
 
-## 🎯 About This Portfolio
+🎯 About This Portfolio
 
-Three production-grade AI systems demonstrating practical applications 
-of LLMs, multi-agent architectures, and machine learning in retail/logistics 
-contexts. Built while working full-time as an OTR driver.
+This portfolio showcases three production-grade AI systems demonstrating real-world applications of Generative AI, multi-agent architectures, and machine learning within Walmart’s retail and logistics ecosystem.
 
-**What makes this unique:** Each project addresses real operational challenges 
-I've observed in Walmart's supply chain from ground level—from inventory gaps 
-to customer experience friction points.
+Each system was designed and built while working full-time as a Walmart OTR driver, blending field experience with advanced AI system design.
 
----
+What makes this portfolio unique:
+It’s built from inside the supply chain — by someone who’s seen every mile, every dock, and every data point in motion. Each project directly addresses operational challenges I’ve encountered firsthand — from inventory forecasting and routing efficiency to accessibility compliance and customer experience.
 
-## 📦 Projects
+These solutions aren’t lab experiments. They’re AI tools engineered for real work, designed to make Walmart’s operations faster, smarter, and more human-centered.
 
-### 1. [StockSense](./stocksense/) - Inventory Intelligence System
-ML-powered stockout prediction with AI-generated explanations for proactive 
-inventory management.
+⸻
 
-**Tech:** Python, Scikit-learn, OpenAI API, FastAPI, LangChain  
-**Status:** ✅ V1 Complete | 🚧 V2 In Progress  
-[→ View Project](./stocksense/) | [→ Live Demo](#)
+📦 Projects
 
----
+1. StockSense￼ — Inventory Intelligence System
 
-### 2. [SmartCart](./smart-cart/) - Conversational Shopping Assistant  
-Agentic AI that helps customers find products through natural conversation, 
-managing cart state and budget constraints.
+Predictive analytics and AI-generated insights for proactive inventory management.
 
-**Tech:** LangChain, LangGraph, OpenAI, Streamlit  
-**Status:** 📅 Planned (Q2 2025)  
-[→ View Project](./smart-cart/)
+Key Impact: Anticipates stockouts, optimizes restocking cadence, and enhances communication between transportation and merchandising.
 
----
+Tech: Python, Scikit-learn, OpenAI API, FastAPI, LangChain
+Status: ✅ V1 Complete | 🚧 V2 In Progress
+→ View Project￼ | → Live Demo￼
 
-### 3. [ComplianceScout](./compliance-scout/) - Accessibility Agent
-Multi-agent system for automated WCAG compliance checking and remediation 
-suggestions.
+⸻
 
-**Tech:** Python, OpenAI, BeautifulSoup, ReportLab  
-**Status:** 📅 Planned (Q3 2025)  
-[→ View Project](./compliance-scout/)
+2. SmartCart￼ — Conversational Shopping Assistant
 
----
+An Agentic AI assistant that helps customers find products through natural conversation while managing cart state, budget, and preferences.
+
+Key Impact: Bridges digital and in-store experiences by making Walmart’s shopping ecosystem more intuitive and personalized.
+
+Tech: LangChain, LangGraph, OpenAI, Streamlit
+Status: 📅 Planned (Q2 2025)
+→ View Project￼
+
+⸻
+
+3. ComplianceScout￼ — Accessibility AI Agent
+
+Multi-agent system that audits digital content for WCAG compliance and recommends remediations.
+
+Key Impact: Supports Walmart’s inclusivity and accessibility goals by automating compliance checks across digital platforms.
+
+Tech: Python, OpenAI, BeautifulSoup, ReportLab
+Status: 📅 Planned (Q3 2025)
+→ View Project￼
+
+⸻
+
 
 🛠️ Technical Stack
 
