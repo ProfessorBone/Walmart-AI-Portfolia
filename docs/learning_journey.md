@@ -1,124 +1,198 @@
+✅ Table of Contents
+✅ Repository badges
+✅ Hyperlinked active projects
+✅ Consistent typography and tone with your current `Agent AI Architect` style
+
+---
+
 # 🧭 Learning Journey – AI Portfolio Development
+
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![LangChain](https://img.shields.io/badge/LangChain-Agentic_AI-yellow.svg)](https://www.langchain.com/)
+[![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green.svg)](https://fastapi.tiangolo.com/)
+[![Docker](https://img.shields.io/badge/Docker-Ready-lightblue.svg)](https://www.docker.com/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
+---
+
+## 📖 Table of Contents
+
+1. [Overview](#-overview)
+2. [Theoretical Foundations & Academic Background](#-theoretical-foundations--academic-background)
+3. [Learning Phases – Proven Competencies](#-learning-phases--proven-competencies)
+4. [Active Projects](#-active-projects)
+5. [Technical Skills Snapshot](#-technical-skills-snapshot)
+6. [Ongoing Professional Development](#-ongoing-professional-development)
+7. [Reflection](#-reflection)
+
+---
 
 ## 🎯 Overview
 
-This document represents the body of knowledge, skills, and applied experience I have built through hands-on learning, experimentation, and real-world AI development.
+This document reflects the **current state of my skills, experience, and applied expertise** in Artificial Intelligence and intelligent systems development.
 
-My work bridges **Python engineering, data science, and agentic AI design**, with a focus on creating **intelligent systems that reason, learn, and act autonomously** — particularly within logistics, trucking, and operational efficiency domains.
+My journey has evolved from mastering Python and data science foundations to designing **autonomous, reasoning-driven multi-agent systems** that operate in real-world contexts.
 
-I am currently building and refining projects that demonstrate this capability, such as **Buddy AI** and **AQLAI_Nexus**, both accessible on my GitHub profile.
+I specialize in **Agentic AI**, where systems don’t just process information — they *reason, adapt, and act*. My work spans logistics, retail, and cognitive system design, built around one guiding principle:
 
----
-
-## 🧠 Core Competencies
-
-### Technical Expertise
-
-* **Advanced Python Development** — modular design, automation, data structures, and OOP
-* **Applied Machine Learning** — model development with Scikit-learn and XGBoost
-* **Agentic System Architecture** — reasoning, planning, and multi-agent communication
-* **FastAPI & RESTful Design** — backend integration for LLM and tool-based agents
-* **LangChain & OpenAI API** — generative systems, contextual orchestration, and prompt optimization
-* **Containerization & MLOps Foundations** — Dockerized workflows, reproducibility, and scaling
-
-### Conceptual Strengths
-
-* Context engineering and schema-driven reasoning
-* Empathy-based AI system design
-* Business-centered AI integration
-* Responsible and ethical deployment
+> “AI should serve humanity by extending our capabilities — not replacing them.”
 
 ---
 
-## 📚 Professional Learning Milestones
+## 🎓 Theoretical Foundations & Academic Background
+
+**Daytona State College – Florida, USA**
+
+* 🎓 **A.S. Degree in Networking Systems Technology** *(Completed)*
+
+  * Focus: Network administration, cybersecurity, and systems integration
+* 📘 **B.S. Degree in Information Technology** *(In Progress — 3 classes remaining)*
+
+  * Focus: Advanced computing systems, software design, and applied AI
+
+These programs provided the **theoretical and infrastructural backbone** for my technical journey — grounding my work in systems thinking, networked architecture, and security-aware design.
+
+---
+
+## 📚 Learning Phases – Proven Competencies
 
 ### **Phase 1: Foundation Building — Advanced Python & Data Science**
 
-Built a strong technical foundation in software design and analytics.
+**Focus:** Software design, analytics, and modular system development
 
-**Accomplishments**
+**Demonstrated Skills:**
 
-* Developed reusable Python modules and automation scripts
-* Created data visualizations and dashboards with Pandas, NumPy, and Matplotlib
-* Implemented end-to-end analytical workflows for data cleaning, transformation, and reporting
+* Built reusable automation scripts and Python modules
+* Designed analytics workflows using Pandas, NumPy, and Matplotlib
+* Implemented complete data pipelines for cleaning, processing, and visualization
+* Developed early prototypes for data-driven decision systems
 
-**Key Strength:** Turning data into insight through structured, efficient Python systems
+**Key Insight:**
+
+> “The code is the lens — through it, data becomes understanding.”
 
 ---
 
-### **Phase 2: Applied AI for Business — Generative AI with Microsoft Azure OpenAI**
+### **Phase 2: Applied AI for Business — Generative AI with Azure OpenAI**
 
-Transitioned from data analytics to **AI system integration** for real-world use.
+**Focus:** Real-world AI applications, business integration, and LLM-driven systems
 
-**Accomplishments**
+**Demonstrated Skills:**
 
-* Deployed custom AI assistants using Azure OpenAI endpoints
-* Engineered prompt templates and conversational chains for dynamic agents
-* Automated repetitive decision-making workflows across business operations
+* Deployed intelligent assistants via Azure OpenAI endpoints
+* Engineered prompt templates for structured conversational reasoning
+* Automated repetitive workflows across logistics and retail environments
+* Explored AI ethics, bias mitigation, and responsible deployment
 
-**Key Strength:** Translating business processes into intelligent, generative solutions
+**Key Insight:**
+
+> “Generative AI is the bridge between data and dialogue — it gives information a voice.”
 
 ---
 
 ### **Phase 3: Intelligent Autonomy — Agentic AI (Johns Hopkins University)**
 
-Advanced into **autonomous and collaborative AI systems** that embody reasoning and moral intelligence.
+**Focus:** Design and implementation of multi-agent cognitive systems
 
-**Accomplishments**
+**Demonstrated Skills:**
 
-* Built multi-agent pipelines with LangChain, FastAPI, and OpenAI tools
-* Designed reasoning and planning loops with memory and feedback control
-* Developed context-aware systems capable of dynamic decision-making
+* Built multi-agent architectures integrating reasoning, planning, and feedback loops
+* Developed dynamic memory and context systems for adaptive decision-making
+* Applied schema-driven context engineering and moral alignment principles
+* Integrated LLMs with APIs and external tools for autonomous task execution
 
-**Key Strength:** Building AI agents that think *with* humans, not *for* them
+**Key Insight:**
 
----
-
-## 🧩 Active Projects
-
-### **Buddy AI**
-
-A logistics-focused trip tracking and analysis system for trucking professionals.
-Tracks miles, fuel, layovers, hooks, and driver notes — evolving into a predictive assistant capable of fatigue detection and performance optimization.
-
-**Demonstrates:** real-world application of multi-agent orchestration, FastAPI integration, and machine learning analysis.
+> “Agentic AI isn’t about control — it’s about collaboration between human and machine intelligence.”
 
 ---
 
-### **AQLAI_Nexus**
+## 🚀 Active Projects
 
-A multi-agent ecosystem exploring the intersection of moral intelligence, reasoning, and autonomy.
-Built around principles of empathy, responsibility, and self-improvement — forming the philosophical and technical core of my current AI development.
+### **1. [DualLens Analytics](https://github.com/ProfessorBone/Agentic-AI-Learning-Journey)** 
 
-**Demonstrates:** advanced system design, cross-agent collaboration, and ethical AI frameworks.
+A multi-phase **Agentic AI investment analysis platform** developed through the Johns Hopkins / Great Learning program.
+
+**Core Capabilities:**
+
+* Financial data acquisition and multi-company analytics
+* AI initiative correlation and knowledge graph construction
+* RAG-powered contextual reasoning and autonomous portfolio recommendations
+
+**Tech Stack:** Python, YFinance, LangChain, OpenAI GPT-4o, NetworkX, Matplotlib
+
+**Status:** Phase 2 Development — AI Initiative Analysis Engine 🚧
 
 ---
 
-## 🌱 Continuing Growth
+### **2. [Agent AI Architect](https://github.com/ProfessorBone/Agent-AI-Architect)** 
 
-My focus now is on **refining and expanding** what has already been built — deepening the foundations of **Agentic AI** through experimentation, reflection, and iterative design.
+A full-scale **agentic AI system** designed to autonomously develop, optimize, and maintain codebases through coordinated multi-agent collaboration.
 
-**Current Areas of Exploration:**
+**Core Capabilities:**
 
-* Enhancing multi-agent orchestration using **LangGraph**
-* Integrating **Python in Excel** for real-time analytics and hybrid workflows
-* Advancing **context engineering** and autonomous reasoning frameworks
+* Modular, dynamic architecture with context-aware orchestration
+* Hierarchical memory and reasoning subsystems
+* Integration with 35+ AI tools (PromptPerfect, Helicone, LangSmith, etc.)
+* SHA-256 integrity verification, A/B testing, and hot-swapping modules
+
+**Tech Stack:** Python, FastAPI, LangChain, Neo4j, ChromaDB, Docker, Poetry
+
+**Status:** Active – Modular Architecture v3.0 (October 2025)
+
+---
+
+### **3. [Walmart AI Portfolio](https://github.com/ProfessorBone/Walmart-AI-Portfolio)** 
+
+Three production-grade AI systems built to solve real challenges observed in Walmart’s logistics and retail operations.
+
+* **StockSense** – ML-powered inventory prediction and supply optimization
+* **SmartCart** – Conversational shopping assistant for customer interaction
+* **ComplianceScout** – Multi-agent WCAG accessibility analysis and remediation
+
+**Tech Stack:** Python, Scikit-learn, LangGraph, Streamlit, FastAPI
+
+**Status:** V1 Complete (StockSense) | SmartCart & ComplianceScout Planned
+
+---
+
+## 🛠️ Technical Skills Snapshot
+
+| Category         | Tools & Frameworks                                         |
+| ---------------- | ---------------------------------------------------------- |
+| **Programming**  | Python (Advanced), TypeScript (Learning)                   |
+| **AI/ML**        | OpenAI API, LangChain, LangGraph, Scikit-learn, XGBoost    |
+| **Backend**      | FastAPI, RESTful APIs, Docker, Poetry                      |
+| **Data**         | Pandas, NumPy, Matplotlib, ChromaDB, Neo4j                 |
+| **Development**  | Git, VS Code, Jupyter, CI/CD (GitHub Actions)              |
+| **Architecture** | Multi-agent systems, context engineering, cognitive design |
+
+---
+
+## 🌱 Ongoing Professional Development
+
+My current focus is on **deepening specialization in Agentic AI** — enhancing reasoning, memory, and collaboration between autonomous agents.
+
+**Areas of Active Research & Experimentation:**
+
+* Multi-agent orchestration using **LangGraph**
+* Integrating **Python in Excel** for live analytics and AI-assisted modeling
+* Advancing **ethical and moral frameworks** in agentic autonomy
 
 **Philosophy:**
 
-> “The future of AI lies not in machines replacing human intelligence — but in machines reflecting our best principles.”
+> “I don’t just build agents — I build relationships between intelligence and intention.”
 
 ---
 
 ## 🪶 Reflection
 
-From foundational Python scripts to autonomous reasoning agents, this journey reflects a progression from *technical learning* to *systemic understanding*.
+This journey reflects a progression from structured coding to emergent intelligence — from writing syntax to engineering systems that learn and reason.
 
-AI has become my language for expressing empathy, logic, and purpose — a medium through which I bridge the human and the intelligent machine.
+Every milestone — from Daytona State to Johns Hopkins — has strengthened my conviction that **AI is both a science and a mirror of human purpose**.
 
 > “We’re not teaching machines to think like us — we’re learning how to think better with them.”
 
 ---
 
-Would you like me to tailor the tone even more toward a **GitHub README style** (a bit tighter, bullet-heavy, and portfolio-focused), or keep it in this **narrative-academic tone** that reads more like a reflective profile piece?
 *This document is a living record of my growth and learning. It will continue to evolve as I take on new challenges and expand my expertise in AI for retail and beyond.*
