@@ -94,14 +94,20 @@ Tools & Infrastructure
 
 ---
 
-## 🚛 The Driver's Advantage
+⸻
 
-As an OTR driver at Walmart, I bring:
-- **Ground-level insight** into logistics operations
-- **Real-world context** for supply chain pain points
-- **Translator role** between AI capabilities and warehouse floor needs
+🚛 The Driver’s Advantage
 
-I'm building AI that works for the people using it, not just impresses in demos.
+As a Walmart over-the-road (OTR) driver, I operate within one of the most complex logistics systems in the world — and that experience gives me something data alone can’t provide: perspective from the inside.
+	•	Operational Intelligence: I’ve lived the realities behind the data — scheduling conflicts, route variability, inventory delays, and the ripple effects of every inefficiency in motion.
+	•	Human-Centered Awareness: I understand the human and logistical layers that define Walmart’s supply chain — from dispatch coordination to store-level execution.
+	•	Applied AI Translator: I bridge the gap between Generative AI capability and real-world logistics — turning technical potential into tools that make drivers, dispatchers, and warehouse teams more efficient and supported.
+
+My goal is simple but transformative:
+to bring the power of Agentic and Generative AI into the hands of the people who move Walmart’s supply chain every day — building systems that think, learn, and collaborate with us.
+
+“I don’t just drive for Walmart. I’m driving the next generation of AI that understands what it means to work at Walmart.”
+
 
 ---
 
