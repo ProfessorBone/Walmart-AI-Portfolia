@@ -1,8 +1,13 @@
-🧠 Walmart AI Portfolio
+🎯 Career Overview
 
-Career Goal: OTR Truck Driver → Walmart Global Tech AI/ML Engineer
-Timeline: January 2025 – June 2026
-Focus: Agentic AI, RAG Systems, Supply Chain Intelligence
+🎯 Career Goal: OTR Truck Driver → Walmart Global Tech AI/ML Engineer
+
+🗓️ Timeline: January 2025 – June 2026
+
+🧠 Focus Areas:
+	•	Agentic AI
+	•	RAG Systems
+	•	Supply Chain Intelligence
 
 ⸻
 
