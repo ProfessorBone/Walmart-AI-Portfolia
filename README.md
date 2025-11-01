@@ -50,13 +50,30 @@ suggestions.
 
 ---
 
-## 🛠️ Technical Stack
+🛠️ Technical Stack
 
-- **Languages:** Python 3.10+
-- **AI/ML:** OpenAI API, LangChain, LangGraph, Scikit-learn
-- **Web:** FastAPI, Streamlit
-- **Data:** Pandas, NumPy, FAISS/Pinecone
-- **Tools:** Jupyter, Git, Docker (planned)
+Languages
+	•	Python 3.10+ — Core language for AI, ML, and backend systems
+	•	TypeScript (Learning) — For future web-based agent interfaces
+
+AI / Machine Learning
+	•	OpenAI API, LangChain, LangGraph — Agentic reasoning and orchestration
+	•	Scikit-learn, XGBoost — Classical and ensemble ML modeling
+	•	FAISS / Pinecone — Vector databases for semantic search and RAG pipelines
+
+Backend & Web Frameworks
+	•	FastAPI — High-performance REST APIs for agent communication
+	•	Streamlit — Interactive dashboards and visualization interfaces
+
+Data & Analytics
+	•	Pandas, NumPy, Matplotlib — Data manipulation and visualization
+	•	ChromaDB, Neo4j — Knowledge graph and vector memory architectures
+
+Tools & Infrastructure
+	•	Git, VS Code, Jupyter — Core development environment
+	•	Docker — Containerization and reproducible agent environments
+	•	Poetry — Dependency management and project packaging
+	•	CI/CD (GitHub Actions) — Automated testing and deployment
 
 ---
 
