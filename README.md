@@ -113,9 +113,9 @@ to bring the power of Agentic and Generative AI into the hands of the people who
 
 ## � Connect
 
-**LinkedIn:** [Your LinkedIn]  
-**Email:** [Your Email]  
-**Portfolio Site:** [Optional]
+**LinkedIn:** www.linkedin.com/in/clarence-downs-970412b4
+**Email:** clarenced2@icloud.com 
+**Portfolio Site:** https://github.com/ProfessorBone/Walmart-AI-Portfolia
 
 ---
 
